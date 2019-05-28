@@ -22,4 +22,6 @@
         android:src="@drawable/ksimg"
         android:scaleType="centerCrop"/>
 
+
+
 </LinearLayout>
